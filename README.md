@@ -1,4 +1,4 @@
-# ExpenseTracer
+# ExpenseCounter
 
 A simple expense manager app for Android.
 
